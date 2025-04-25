@@ -1,6 +1,7 @@
 # glow_orqid
 Vibe Coding result
-Skin care routin 
+Skin care routin information app
+
 How to start?
 Go terminal
 Npm install
