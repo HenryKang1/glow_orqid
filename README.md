@@ -4,5 +4,7 @@ Skin care routin information app
 
 How to start?
 Go terminal
+
 Npm install
+
 Npm run dev 
