@@ -29,8 +29,9 @@ npm install
 3. Start the Development Server
 ```
 npm run build
-Visit http://localhost:3000 to view the app in your browser.
 ```
+Visit http://localhost:3000 to view the app in your browser.
+
 🚀 Tech Stack
 
 React.js / Next.js
