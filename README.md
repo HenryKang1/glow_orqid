@@ -18,19 +18,19 @@ Clean and minimal UI
 Follow these steps to run the project locally:
 
 1. Clone the Repository
-"""
+```
 git clone https://github.com/HenryKang1/glow_orqid.git
 cd glow_orqid
-"""
+```
 2. Install Dependencies
-
+```
 npm install
-
+```
 3. Start the Development Server
-
+```
 npm run build
 Visit http://localhost:3000 to view the app in your browser.
-
+```
 🚀 Tech Stack
 
 React.js / Next.js
