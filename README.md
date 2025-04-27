@@ -18,10 +18,10 @@ Clean and minimal UI
 Follow these steps to run the project locally:
 
 1. Clone the Repository
-
+"""
 git clone https://github.com/HenryKang1/glow_orqid.git
 cd glow_orqid
-
+"""
 2. Install Dependencies
 
 npm install
